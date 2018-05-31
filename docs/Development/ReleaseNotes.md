@@ -15,7 +15,6 @@ To check which release of VIC you are running:
 
 ------------------------------
 
-
 ## VIC 5.1.0 rc2
 
 #### Bug Fixes:
